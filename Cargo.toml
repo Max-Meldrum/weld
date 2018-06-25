@@ -34,6 +34,11 @@ name = "repl"
 path = "weld/bin/repl.rs"
 bench = false
 
+[[bin]]
+name = "weldrunner"
+path = "weld/bin/weldrunner.rs"
+bench = false
+
 
 [[bin]]
 name = "hdrgen"
