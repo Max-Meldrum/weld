@@ -140,7 +140,7 @@ mod codegen;
 mod optimizer;
 mod syntax;
 mod sir;
-mod conf;
+pub mod conf;
 
 // Public interfaces.
 // TODO these probably shouldn't all be public...
